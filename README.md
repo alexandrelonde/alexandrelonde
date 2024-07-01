@@ -1,5 +1,15 @@
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bem vind@ ao meu perfil do GitHub! </h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bem vind@ ao meu perfil do GitHub! </h1>
+
+- 👋 Olá! Meu nome é Alexandre Londe, e eu sou um Desenvolvedor web Full Stack. <br />
+
+- 💻 Minha Stack Principal é JavaScript/TypeScript com Angular e NestJS. <br />
+
+- 🎓 Eu sou graduado em Engenhara da Computação pelo IFTM. <br />
+
+- 🧠 No momento eu estou aprofundando os meus conhecimentos em Angular. <br />
+
+- 🎮 Meu jogo preferido é Red Dead Redemption II. <br />
 
 <!--
 
